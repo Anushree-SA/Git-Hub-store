@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+printf("Hi CApgemini,today am resigning the office");
+printf("Feling vary sad to leave because it is my first company");
+printf("But i dont have any other option ,i have to leave because of my personal reason");
+printf("So bye.......bye........");
+printf("Miss You.............");
+}
+
