@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+printf("Perform compatibility testion");
+printf("check in different browsers");
+printf("Perform Integration testing");
+printf("Perform Regression testing");
+printf("Perform Functionality testing");
+}
